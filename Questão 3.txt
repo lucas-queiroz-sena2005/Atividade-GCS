@@ -1,0 +1,7 @@
+Situação 3: Controle Granular de Permissões de Acesso
+Sua empresa está desenvolvendo um projeto com requisitos de
+segurança rigorosos. Existe a necessidade de ter um controle
+de permissões detalhado, onde diferentes colaboradores devem
+ter acesso limitado a apenas algumas partes do projeto. Além disso,
+alguns membros da equipe precisam ter permissão para aprovar merge
+requests, enquanto outros devem ter acesso somente para visualizar o código.
