@@ -4,3 +4,6 @@ Você está em uma equipe que precisa implementar integração contínua (CI)
 em um projeto para garantir que todo o código seja testado automaticamente 
 ao ser enviado para o repositório. A empresa não possui nenhuma ferramenta
 de CI/CD configurada e precisa escolher entre GitHub e GitLab para esta funcionalidade.
+
+Resposta:
+
