@@ -5,3 +5,6 @@ uma plataforma que tenha uma comunidade ativa e maior visibilidade
 pública para atrair contribuidores para o projeto. A equipe deseja
 criar um repositório que seja acessível a qualquer pessoa e que facilite
 a contribuição.
+
+Resposta:
+
