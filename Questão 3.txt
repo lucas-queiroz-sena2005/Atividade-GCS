@@ -5,3 +5,6 @@ de permissões detalhado, onde diferentes colaboradores devem
 ter acesso limitado a apenas algumas partes do projeto. Além disso,
 alguns membros da equipe precisam ter permissão para aprovar merge
 requests, enquanto outros devem ter acesso somente para visualizar o código.
+
+Resposta:
+
