@@ -7,3 +7,4 @@ de CI/CD configurada e precisa escolher entre GitHub e GitLab para esta funciona
 
 Resposta:
 
+saqedsadasdadas
