@@ -6,4 +6,4 @@ pública para atrair contribuidores para o projeto. A equipe deseja
 criar um repositório que seja acessível a qualquer pessoa e que facilite
 a contribuição.
 
-Resposta: 
+Resposta: A plataforma utilizada seria o GitHub por conta da fácil acessibilidade ao público e a restrição de alterações para membros não colaboradores.
