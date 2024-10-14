@@ -7,4 +7,4 @@ alguns membros da equipe precisam ter permissão para aprovar merge
 requests, enquanto outros devem ter acesso somente para visualizar o código.
 
 Resposta:
-
+GitLab
